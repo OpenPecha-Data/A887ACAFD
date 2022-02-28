@@ -1,0 +1,16 @@
+segment_sources:
+  P4251AC58:
+    type: origin_type
+    relation: translation
+    language: en
+  P4A36CC31:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7ba099eb2eb54c5a9fb4545cff9ade32:
+    P4251AC58: 569ece1b0d6b4fc288b2cbf2b678786c
+    P4A36CC31: 1868beac542a4f8d97f626fb3b10cf03
+  e8d18c719341497ab7a05d821a0149b7:
+    P4251AC58: 21acd63049a14534a8fd2dfd7fcc1725
+    P4A36CC31: 54d69ed77e8d48d791672e69b95ba16f
